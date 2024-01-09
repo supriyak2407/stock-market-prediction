@@ -13,8 +13,6 @@ Stock prediction is a challenging task, but it becomes more manageable with mach
 
 ### 1. Regression Based Model
 
-#### Regression Based Model 
-
 - Regression is used to predict continuous values by minimizing error through the linear regression algorithm.
 - The linear regression equation used is: V = a + bK + error, where V is the continuous value, K represents known independent values, and a, b are coefficients.
 - The dataset is processed using the pandas library, and parameters to be predicted (stock prices) are calculated.
@@ -42,3 +40,5 @@ The integration of LSTM and Regression techniques in stock price prediction has 
 - Utilize larger datasets to improve prediction accuracy.
 - Explore additional machine learning models for comparative analysis.
 - Enhance the system's robustness and adaptability.
+
+  The code and the results are included in the pdf file uploaded.
